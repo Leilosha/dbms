@@ -1,0 +1,25 @@
+.image {
+	position	: relative;
+	width		: 100%; 
+}
+
+.image h4 {
+	position	: absolute;
+	top		    : 420px;
+	left		: 50px;
+	width		: 100%;
+	color:#ffffff;
+	font:  Roboto , Arial, sans-serif;
+	padding: 22px 0px 24px 0px;
+	letter-spacing: 1px;
+	text-align: center;
+	
+}
+.image h1{
+	position: absolute;
+	top:33%;
+	left: 25%;
+	color:#ffffff;
+	font: 72px Roboto , Arial, sans-serif;
+	padding: 24px 0px;
+}
